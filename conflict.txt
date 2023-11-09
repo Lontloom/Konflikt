@@ -1,3 +1,5 @@
 See on esimene lause
 Loogiliselt tuleb teine lause
-luhike kolmas rida, mulle ei meeldi
+<<<<<<< HEAD
+luhike kolmas rida, mulle ei meeldi ja luhike 957. rida
+
