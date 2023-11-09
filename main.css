@@ -1,0 +1,65 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+h1 {
+    padding: 50px;
+    display:left;
+    font-family: "Poiret One", serif; 
+    color: #000000;
+   
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.left-column img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.center-column {
+    flex: 2;
+    margin: 0 20px;
+}
+
+.right-column {
+    flex: 1;
+}
+
+.social-media img {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.google-maps img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
